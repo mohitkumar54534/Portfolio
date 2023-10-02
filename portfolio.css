@@ -1,0 +1,43 @@
+nav{
+    background-color:#333;
+    overflow: hidden;
+}
+nav a{
+    text-decoration:double;
+    padding: 10px;
+    text-align: center;
+    float:right;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    color:white;
+
+}
+header {
+     padding: 15px;
+    background-color: rgb(17, 124, 143);
+}
+p{
+   font-size:25px ;
+   text-align: center;
+   margin-top:90px;
+}
+#box{
+    width:300px;
+    height:300px;
+    border-radius:1000px;
+    background-color: lightblue;
+    padding:1em;
+    float:left;
+    margin:10px;
+}
+h2{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size:40px;
+    font-weight:bolder;
+    font-style: italic;
+}

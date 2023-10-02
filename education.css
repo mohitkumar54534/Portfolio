@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    color:black;
+    padding:35px;
+    background-color: aqua;
+    margin-top:-10px;
+    margin-left:-10px;
+    margin-right:-10px;
+}
+
+
+p{
+    font-size: 25px;
+}
+h2{
+    color:green;
+    font-style: italic;
+    font-weight: bolder;
+}
+body{
+    background-color:beige;
+}

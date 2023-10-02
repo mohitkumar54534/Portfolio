@@ -1,0 +1,17 @@
+h1{
+    font-size:35px;
+    text-align:center;
+    padding:35px;
+    background-color: blanchedalmond;
+    margin-top:-10px;
+    margin-left:-10px;
+    margin-right:-10px;
+    color:green;
+}
+li{
+    font-size:23px;
+    font-weight:bolder;
+}
+body{
+    background-color:aliceblue;
+}
